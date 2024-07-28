@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your My Hero Academia knowledge!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Deku?",
+      "answers": ["Hero", "Villain", "Student"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is All Might's power?",
+      "answers": ["One For All", "Fire", "Speed"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Bakugo?",
+      "answers": ["Hero", "Villain", "Reporter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is UA?",
+      "answers": ["School", "Agency", "Hospital"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Todoroki?",
+      "answers": ["Hero", "Villain", "Teacher"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Eraserhead's power?",
+      "answers": ["Erasure", "Strength", "Flight"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Uraraka?",
+      "answers": ["Hero", "Villain", "Chef"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Endeavor's quirk?",
+      "answers": ["Flame", "Ice", "Wind"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Toga?",
+      "answers": ["Villain", "Hero", "Nurse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the League?",
+      "answers": ["Villains", "Heroes", "Doctors"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Shigaraki?",
+      "answers": ["Villain", "Hero", "Judge"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Present Mic's quirk?",
+      "answers": ["Voice", "Speed", "Strength"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Iida?",
+      "answers": ["Hero", "Villain", "Singer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tsuyu's power?",
+      "answers": ["Frog", "Cat", "Bird"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Kirishima?",
+      "answers": ["Hero", "Villain", "Actor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Aizawa's job?",
+      "answers": ["Teacher", "Hero", "Police"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Mirio?",
+      "answers": ["Hero", "Villain", "Guard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Momo's quirk?",
+      "answers": ["Creation", "Fire", "Water"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Dabi?",
+      "answers": ["Villain", "Hero", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is One For All?",
+      "answers": ["Quirk", "Group", "School"],
       "correctAnswerIndex": 0
     }
   ]
